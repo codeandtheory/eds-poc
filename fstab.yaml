@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "author-p99508-e1532789.adobeaemcloud.com/bin/franklin.delivery/codeandtheory/eds-poc/main"
+    url: "https://author-p99508-e1532789.adobeaemcloud.com/bin/franklin.delivery/codeandtheory/eds-poc/main"
     type: "markup"
     suffix: ".html"
