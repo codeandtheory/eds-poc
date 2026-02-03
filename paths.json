@@ -1,10 +1,14 @@
 {
   "mappings": [
-    "/content/eds-poc/:/",
-    "/content/eds-poc/configuration:/.helix/config.json",
-    "/content/eds-poc/metadata:/metadata.json"
+    "/content/walmart-business-eds/:/",
+    "/content/walmart-business-eds/configuration:/.helix/config.json",
+    "/content/walmart-business-eds/metadata:/metadata.json",
+    "/content/tap-clover-eds/:/",
+    "/content/tap-clover-eds/configuration:/.helix/config.json",
+    "/content/tap-clover-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-poc/"
+    "/content/walmart-business-eds/",
+    "/content/tap-clover-eds/"
   ]
 }
